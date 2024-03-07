@@ -1,0 +1,16 @@
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.exe
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.deps.json
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.dll
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\bin\Debug\net8.0-windows\Lab2.pdb
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.Form1.resources
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.dll
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\refint\Lab2.dll
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.pdb
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+C:\Users\Ivan Budniak\source\repos\Lab2\Lab2\obj\Debug\net8.0-windows\ref\Lab2.dll
